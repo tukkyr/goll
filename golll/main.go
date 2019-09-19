@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/tukkyr/goll/ee"
+	ee "github.com/tukkyr/goll"
 )
 
 func main() {
